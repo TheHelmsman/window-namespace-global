@@ -1,5 +1,9 @@
 # window-namespace-global
 
+This project represents code snippet on how to define global namespace on window object to use with Vue
+
+For details, please open src/main.ts file
+
 ## Project setup
 ```
 npm install
